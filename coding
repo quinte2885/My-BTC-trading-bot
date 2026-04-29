@@ -53,8 +53,8 @@ BASE_URL              = “https://api.coinbase.com”
 
 # ─────────────────────────────────────────────
 
-TELEGRAM_TOKEN   = “8672200439:AAGLKLAp-XX3OzA6VxAa7-Xw_nXg4AV1lSk”
-TELEGRAM_CHAT_ID = “7519828264”
+TELEGRAM_TOKEN   = “”
+TELEGRAM_CHAT_ID = “”
 
 def send_telegram(message):
 try:
